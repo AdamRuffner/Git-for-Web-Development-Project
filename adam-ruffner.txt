@@ -1,4 +1,4 @@
-CodePen URL  ()
+CodePen URL  (https://codepen.io/adamruffner/pen/yLOLLpG?editors=1100)
 
     1. What is Semantic HTML? 
         - The correct use of HTML to reinforce the semantics.
@@ -89,7 +89,9 @@ CodePen URL  ()
 Stretch Questions
 
     1. What is the difference between an inline element and a block element?
+    - an inline element will only take up 1 line, a block element when big enough will cause a break in the line.
     2. What happens when an element is positioned absolutely? 
+    - it is its own layer so it can be moved around freely and sit on top of other things.
     3. How do I make an element take up only the amount of space it needs but also have the ability to give it a width? 
     4. Name 3 elements that are diplay block by default, 2 elements that are display inline by default and 1 element that is display inline-block by default
     5. In your own words, explain the box model. What is the "fix" for the box model, in other words, how do we make all elements respect the width we've given them? 
